@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/Sharif1893/https://githubcom/Sharif1893/Sharif1893git.svg?style=flat)](http://hits.dwyl.com/Sharif1893/https://githubcom/Sharif1893/Sharif1893git)
+[!(http://hits.dwyl.com/Sharif1893/https://githubcom/Sharif1893/Sharif1893git.svg?style=flat)](http://hits.dwyl.com/Sharif1893/https://githubcom/Sharif1893/Sharif1893git)
 <img src="https://komarev.com/ghpvc/?username=Sharif1893"> <br>
 [![Youtube](https://img.shields.io/static/v1?label=Daynotes&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 
@@ -17,7 +17,7 @@ A final year undergraduate student from Daffodil International University. I am 
  
 <h3> Connect me: </h3>
  
-<a href="https://https://sites.google.com/view/sharif"> <img align="left" alt="Shariful Islam | Portfolio" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media"></a>
+<a href="https://sites.google.com/view/sharif"> <img align="left" alt="Shariful Islam | Portfolio" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media"></a>
 
 <a href="https://www.linkedin.com/in/sharif1893/"><img align="left" alt="Shariful Islam | LinkedIn" width="31px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media"></a>
 
